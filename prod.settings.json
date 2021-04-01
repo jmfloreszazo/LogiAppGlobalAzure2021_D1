@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "[YOUR-PERSONAL-DATA]",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "FUNCTIONS_V2_COMPATIBILITY_MODE": "true",
+    "WORKFLOWS_TENANT_ID": "[YOUR-PERSONAL-DATA]",
+    "WORKFLOWS_SUBSCRIPTION_ID": "[YOUR-PERSONAL-DATA]",
+    "WORKFLOWS_RESOURCE_GROUP_NAME": "[YOUR-PERSONAL-DATA]",
+    "WORKFLOWS_LOCATION_NAME": "centralus",
+    "outlook-connectionKey": "[YOUR-PERSONAL-DATA]"
+  }
+}
